@@ -1,0 +1,16 @@
+{
+  "name": "express-intro",
+  "version": "0.0.1",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "Jeremias Erbs <jerry@badabam.de> (http://www.badabam.de/)",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "4.16.4",
+    "nodemon": "1.18.10"
+  }
+}
